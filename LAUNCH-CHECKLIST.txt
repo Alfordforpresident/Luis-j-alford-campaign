@@ -1,0 +1,12 @@
+LUIS J. ALFORD CAMPAIGN WEBSITE — LAUNCH CHECKLIST
+
+1. Open index.html in a browser to preview the site.
+2. Replace campaign@example.com with a real, monitored campaign email if that placeholder is used.
+3. Confirm the portrait is approved for public use.
+4. Review and approve all policy summaries and campaign statements.
+5. Verify any historical quotation against a primary source before publication.
+6. Add any legally required campaign-finance disclaimer and disclosures for the office and jurisdiction.
+7. Publish the contents of this folder to a static host such as GitHub Pages.
+8. For GitHub Pages, select the correct repository branch and folder containing index.html in Settings → Pages.
+
+This is a static HTML website. No build step or server-side runtime is required.
